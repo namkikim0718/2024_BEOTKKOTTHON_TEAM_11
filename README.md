@@ -2,40 +2,50 @@
   <img src="https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_11/blob/main/pics/eatstime_intro.png" width="auto" height="auto">
 </div>
 
-### 🔖 소개 및 서비스 목적
+### 🔖 소개
   - 쉽고 간편하게 밥 약속을 생성하고 관리할 수 있는 서비스로, 신학기 학생들을 위해 기획 및 개발되었습니다.
+
+### 🎯 목표
+  -  Notion, Figma, Github, Discord 를 사용하여 활발한 소통을 바탕으로 효율적인 협업을 통해 공동의 목표에 달성합니다.
  
 ### 📚 기술 스택
 
-|파트|프레임워크 & 라이브러리|설명|
-|---|---|---|
-|Frontend|<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/><img src="https://img.shields.io/badge/Redux-3178C6?style=flat-square&logo=redux&logoColor=white"/>|Frontend Description|
-|Backend|<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>|Backend Description|
-|Collaborative|<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>|Collaborative Description|
-
-<table>
-  <tr>
-    <td align="center"><b>Part</b></td>
-    <td align="center"><b>Framework & Library</b></td>
-    <td align="center"><b>Description</b></td>
-  </tr>
-
-  <tr>
-    
-  </tr>
-</table>
+|파트|프레임워크 & 라이브러리|
+|---|---|
+|Frontend|<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/><img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/><img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/><img src="https://img.shields.io/badge/Vercel-0000?style=flat-square&logo=vercel&logoColor=white"/>|
+|Backend|<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/><img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>|
+|Collaborative|<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>|
 
 
 ### 🗂️ 개발 레포 및 문서
-> 아래 링크를 통해 저희 서비스의 ERD 및 깃허브 레포지토리를 확인하실 수 있습니다.
-
-- [이츠타임 ERD](https://www.erdcloud.com/d/txHpp4bQaeeqAntZJ)
+> 아래 링크를 통해 저희 서비스의 개발 레포지토리 및 문서를 확인하실 수 있습니다.
+  
 - [Frontend Repository](https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_11_FE)
 - [Backend Repository](https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_11_BE)
+- [이츠타임 ERD](https://www.erdcloud.com/d/txHpp4bQaeeqAntZJ)
+  <details>
+    <summary>Preview</summary>
 
-#### 서비스 아키텍처
+    <div align="center">
+  <img src="https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_11/blob/main/pics/eatstime_erd.png" width="auto" height="auto">
+</div>
 
-#### 플로우 차트
+  </details>
+
+- 플로우 차트
+  <details>
+    <summary>Preview</summary>
+  
+    <div align="center">
+  <img src="https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_11/blob/main/pics/eatstime_flow.png" width="auto" height="auto">
+</div>
+
+  </details>
+
+
+- 서비스 아키텍처
+
+
 
 ### 🔗 주요 기능
 
